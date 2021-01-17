@@ -33,6 +33,8 @@ Step 1:
 - Determine a county list with the names of the counties.
 - Determine a dictonary with the key and the votes cast for each county as the valuse.
 
+!(step_1)[step_1.png]
+
 Step 2:
 - Determine an empty string with the county name for the county with the largest turnout.
 - Determine a variable with numbers of votes of the county that had the largest turnout.
