@@ -70,28 +70,25 @@ Step 7:
 ![step_7](step_7.png)
 
 ## Election-Audit Results: 
-- 369,711 votes were cast in this congressional election. 
+- Total number of votes is 369,711 that were cast in this congressional election. 
 - Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  - Jefferson had 10.5% which is 38,855 of votes. 
+  - Denver had 82.8% which is 306,055 of votes.
+  - Arapahoe had 6.7% which is 24,801 of votes.
 
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
-
-- Denver had the largest county turnout (largest number of votes).
+- Denver had the largest county turnout (largest number 306,055 of votes).
 
 - Breakdown of the number of votes and the percentage of the total votes each candidate received.
+  - Charles Casper Stockham had 23.0% with 85,213 of votes.
+  - Diana DeGette had 73.8% with 272,892 of votes.
+  - Raymon Anthony Doane had 3.1% 11,606 of votes.
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
-
-- Diana DeGette candidate won the election.
-
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+- The winner of the election is Diana DeGette. Her vote count was 272,892 (73.8%).
 
 ![Election-Audit_Results](Election-Audit_Results.png)
 
 ## Election-Audit Summary: 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The scrit can be used in different variations for other elections. 
+For example, it can be used in order to determine demographics of the voters by age, nationality and ethic group and etc. You can modify and specify each characteristic.   
+
+Another way to apply this script is to identify number of total early votes, in-person votes, mail ballots returned votes, mail ballots outstanding votes and total voted number of votes by Party Registration. It gives you a flow of voters methods during the election time.
